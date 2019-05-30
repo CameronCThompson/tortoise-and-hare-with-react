@@ -1,0 +1,32 @@
+#race {
+  margin: 20px;
+}
+
+#field {
+  background-color: chocolate;
+}
+
+.race-track {
+  border: 1px solid brown;
+}
+
+#start-button {
+  margin-top:10px;
+  margin-right:50px;
+}
+
+#race-status {
+  padding-left: 50px;
+}
+
+#rabbit {
+  height: 45px;
+  width: 45px;
+  background: URL(sprites.png) no-repeat -49px 0px / 90px 45px;
+}
+
+#turtle {
+  height: 45px;
+  width: 45px;
+  background: URL(sprites.png) no-repeat 4px -6px / 90px 45px;
+}
